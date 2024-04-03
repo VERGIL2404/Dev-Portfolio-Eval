@@ -7,3 +7,7 @@
 ## April 2, 2024
 - **Task:** Set up the backend with Node.js and Express. Initialized the server structure.
 - **Learning:** Learned how to create a basic Express server and set up middleware for CORS and JSON parsing.
+
+## April 3, 2024
+- **Task:** Integrated GitHub REST API for fetching user data, repos, and events.
+- **Learning:** Explored GitHub API endpoints and handled authentication with personal access tokens.
