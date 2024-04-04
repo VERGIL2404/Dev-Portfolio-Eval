@@ -11,3 +11,7 @@
 ## April 3, 2024
 - **Task:** Integrated GitHub REST API for fetching user data, repos, and events.
 - **Learning:** Explored GitHub API endpoints and handled authentication with personal access tokens.
+
+## April 4, 2024
+- **Task:** Implemented scoring logic for different categories based on GitHub data.
+- **Learning:** Developed algorithms to calculate scores for activity, code quality, etc., using metrics like commit frequency, repo stars, etc.
