@@ -15,3 +15,7 @@
 ## April 4, 2024
 - **Task:** Implemented scoring logic for different categories based on GitHub data.
 - **Learning:** Developed algorithms to calculate scores for activity, code quality, etc., using metrics like commit frequency, repo stars, etc.
+
+## April 5, 2024
+- **Task:** Set up the frontend with React and Vite. Created basic components for user input.
+- **Learning:** Got familiar with React hooks and Vite for fast development.
