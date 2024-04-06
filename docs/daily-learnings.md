@@ -19,3 +19,7 @@
 ## April 5, 2024
 - **Task:** Set up the frontend with React and Vite. Created basic components for user input.
 - **Learning:** Got familiar with React hooks and Vite for fast development.
+
+## April 6, 2024
+- **Task:** Built UI components for displaying reports, including score summaries and breakdowns.
+- **Learning:** Used CSS and possibly a library like Material-UI for responsive design.
