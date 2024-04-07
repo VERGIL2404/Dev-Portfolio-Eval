@@ -23,3 +23,7 @@
 ## April 6, 2024
 - **Task:** Built UI components for displaying reports, including score summaries and breakdowns.
 - **Learning:** Used CSS and possibly a library like Material-UI for responsive design.
+
+## April 7, 2024
+- **Task:** Added charts for contribution heatmap and language distribution using a charting library.
+- **Learning:** Integrated Chart.js or similar for data visualization in React.
