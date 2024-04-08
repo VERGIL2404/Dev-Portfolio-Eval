@@ -27,3 +27,7 @@
 ## April 7, 2024
 - **Task:** Added charts for contribution heatmap and language distribution using a charting library.
 - **Learning:** Integrated Chart.js or similar for data visualization in React.
+
+## April 8, 2024
+- **Task:** Implemented caching with MongoDB to store reports with TTL.
+- **Learning:** Set up MongoDB Atlas, connected via Mongoose, and implemented cache invalidation.
