@@ -31,3 +31,7 @@
 ## April 8, 2024
 - **Task:** Implemented caching with MongoDB to store reports with TTL.
 - **Learning:** Set up MongoDB Atlas, connected via Mongoose, and implemented cache invalidation.
+
+## April 9, 2024
+- **Task:** Prepared for deployment: configured Vercel for frontend and Render for backend.
+- **Learning:** Learned about environment variables, build scripts, and deploying full-stack apps.
