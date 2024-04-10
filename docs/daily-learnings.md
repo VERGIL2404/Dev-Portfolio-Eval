@@ -35,3 +35,7 @@
 ## April 9, 2024
 - **Task:** Prepared for deployment: configured Vercel for frontend and Render for backend.
 - **Learning:** Learned about environment variables, build scripts, and deploying full-stack apps.
+
+## April 10, 2024
+- **Task:** Final testing, added shareable routes, and polished the UI.
+- **Learning:** Importance of end-to-end testing and user experience improvements.
